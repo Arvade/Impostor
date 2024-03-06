@@ -11,11 +11,11 @@ intriguing journey through the realm of software development.
 
 Let's uncover the secrets together! 🎩🕵️‍♂️
 
-Built specifically for the [100 commitów](https://100commitow.pl/) competition
+Built specifically for the [100 commitów](https://100commitow.pl/) competition.
 
 
 
 ## Installation
 
 Impostor is currently in development and not yet available for installation. 
-Stay tuned for updates on how to install and use the application
+Stay tuned for updates on how to install and use the application.
